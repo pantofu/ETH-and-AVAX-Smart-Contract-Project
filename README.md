@@ -16,7 +16,7 @@ As required, it has the following: the require(), assert(), and revert() functio
 * To check if everything works fine, you can start compiling it by clicking the button on the left side, as shown above.
 
 * You can now proceed to the deploy and run transaction section and play around with it. Try testing by adding a balance or testing each function individually. 
-
+![image](https://github.com/pantofu/ETH-and-AVAX-Smart-Contract-Project/assets/104056079/54bff659-2d3b-4b6c-b42d-562d065ae027)
 
 
 ## Authors
